@@ -1,5 +1,5 @@
-# Logistics
-Program that receives an input
+# Description
+Program that receives an input 
 
 
 # Compiling:
