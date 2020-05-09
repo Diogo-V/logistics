@@ -8,3 +8,8 @@ Program that simulates a logistics system receiving input from stdin and doing s
 
 # Compiling:
 Use gcc -g -fsanitize=address -ansi -Wall -Wextra -pedantic -Werror -o logistics proj1.c <br />
+
+# Performing tests:
+1º Unzip tests.zip <br />
+2º Compile c file <br />
+3º Run test.sh using command: ./test.sh logistics <br />
